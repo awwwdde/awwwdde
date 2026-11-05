@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <strong>Frontend</strong> · TypeScript, React, Next.js, Tailwind CSS, GSAP<br>
+  <strong>Frontend</strong> · TypeScript, React, Next.js, Tailwind CSS, GSAP, Framer-Motion<br>
   <strong>Backend &amp; infrastructure</strong> · Python, FastAPI, PostgreSQL, Docker, Caddy
 </p>
 
