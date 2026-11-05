@@ -2,8 +2,13 @@
   <img src="./ascii-horizon.gif" alt="awwwdde over animated ASCII clouds">
 </p>
 
+<h3 align="center">
+  Developer&nbsp; <img src="./ascii-orbit.gif" width="84" height="42" align="middle" alt="and"> &nbsp;Designer
+</h3>
+
 <p align="center">
-  I'm Vladislav, a full-stack developer and designer. I build websites from the first sketch through deployment, with a soft spot for typography and motion.
+  I'm Vladislav. I take websites from first sketch to deployment.<br>
+  My favorite details are the type and the way things move.
 </p>
 
 <p align="center">
@@ -12,7 +17,6 @@
 </p>
 
 <p align="center">
-  <a href="https://awwwdde.art">Portfolio</a> · <a href="https://t.me/awwddedev">Telegram</a>
+  <a href="https://awwwdde.art">Portfolio ↗</a> &nbsp;·&nbsp; <a href="https://t.me/awwddedev">Telegram ↗</a><br>
+  <em>Freedom clears the mind.</em>
 </p>
-
-<p align="center"><em>Freedom clears the mind.</em></p>
