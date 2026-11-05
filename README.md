@@ -17,6 +17,6 @@
 </p>
 
 <p align="center">
-  <a href="https://awwwdde.art">Portfolio ↗</a> &nbsp;·&nbsp; <a href="https://t.me/awwddedev">Telegram ↗</a><br>
-  <em>Freedom clears the mind.</em>
+  <a href="https://awwwdde.art">portfolio ↗</a> &nbsp;·&nbsp; <a href="https://t.me/awwddedev">telegram ↗</a><br>
+  <em>Freedom clears the mind</em>
 </p>
